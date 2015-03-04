@@ -17,13 +17,8 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# Windows image files
-*.png
-*.jpeg
-
 # Adobe Photoshop files
 *.psd
-*.8bf
 
 # =========================
 # Operating System Files

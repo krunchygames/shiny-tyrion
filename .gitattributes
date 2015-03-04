@@ -15,9 +15,3 @@
 *.PDF	 diff=astextplain
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
-*.html  diff=astextplain
-*.HTML  diff=astextplain
-*htm  diff=astextplain
-*HTM  diff=astextplain
-*.css  diff=astextplain
-*.CSS  diff=astextplain
